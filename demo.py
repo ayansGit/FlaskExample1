@@ -1,0 +1,2 @@
+def getStores():
+    return {"stores": []}
